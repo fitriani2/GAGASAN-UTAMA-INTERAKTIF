@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{F2CA9F4B-B9B6-41A0-8E18-6BADC636F698}'];loadHandler&&loadHandler(3, '<div id="spr0_72df3"><div id="spr1_72df3" class="kern slide"><img id="img2_72df3" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_72df3" class="kern slide"><div id="spr3_72df3"><img id="img0_72df3" src="data/img7.jpg" width="960" height="540" alt="A picture containing outdoor\
+\
+Description automatically generated" style="top:-0px;"/></div><div id="spr4_72df3" style="left:824.87px;"><a id="hl0_72df3" href="#" onclick="document.getElementById(\'coreSpr_466265\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_466265\').getCore().playHyperlinkSound(\'sound3\', this);document.getElementById(\'coreSpr_466265\').getCore().gotoSlide(1, this);return false;"><img id="img1_72df3" src="data/img10.png" width="146" height="116" alt="Icon\
+\
+Description automatically generated" style="left:0.043px;top:-0.22px;"/></a></div><div id="yt0" aria-label="Gagasan Utama" role="group"></div></div></div>', '{"s":[]}');})();
